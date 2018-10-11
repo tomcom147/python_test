@@ -49,7 +49,8 @@ wordlist = ["cat",
             "indivisual",
             "apple",
             "banana",
-            "peach"]
+            "peach",
+            "original"]
 
 #print(wordlist[random.randint(0,len(wordlist)-1)])
 #print(wordlist(random.randint(0,len(wordlist))))
